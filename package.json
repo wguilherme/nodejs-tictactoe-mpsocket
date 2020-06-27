@@ -1,0 +1,30 @@
+{
+  "name": "nodejs-tictactoe-mpsocket",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wguilherme/nodejs-tictactoe-mpsocket.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wguilherme/nodejs-tictactoe-mpsocket/issues"
+  },
+  "homepage": "https://github.com/wguilherme/nodejs-tictactoe-mpsocket#readme",
+  "dependencies": {
+    "ejs": "^3.1.3",
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0",
+    "vue": "^2.6.11"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
